@@ -15,15 +15,21 @@
 - 更多高级配置项，详见面板
 
 # 安装&升级
-
+## 原有的一键安装命令
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
-# 安装&升级（试试自己的仓库）
+## 安装&升级（试试自己的仓库命令）
 
 ```
 bash <(curl -Ls https://github.com/aunger01/x-ui/master/install.sh)
+```
+
+## 安装&升级（试试原有链接拼接自己仓库命令）
+
+```
+bash <(curl -Ls https://raw.githubusercontent.com/aunger01/x-ui/master/install.sh)
 ```
 
 ## 手动安装&升级
