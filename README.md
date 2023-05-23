@@ -20,6 +20,12 @@
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
+# 安装&升级（试试自己的仓库）
+
+```
+bash <(curl -Ls https://github.com/aunger01/x-ui/master/install.sh)
+```
+
 ## 手动安装&升级
 
 1. 首先从 https://github.com/vaxilu/x-ui/releases 下载最新的压缩包，一般选择 `amd64`架构
